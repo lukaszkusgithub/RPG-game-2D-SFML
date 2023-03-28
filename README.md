@@ -22,7 +22,7 @@ The file may require additional permissions, for this purpose use the command:
 $ chmod 754 ./game
 
 ## Windows
-Run the game.exe file located in the "windows executable file" folder
+Run the RPG.exe file located in the "windows executable file" folder
 
 
 
