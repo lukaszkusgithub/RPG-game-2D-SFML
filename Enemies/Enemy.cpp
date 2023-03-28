@@ -89,7 +89,7 @@ float Enemy::attack()
 	}
 }
 
-float Enemy::setEnemyScale(float scale)
+void Enemy::setEnemyScale(float scale)
 {
 	this->currentScale = scale;
 	this->enemySprite_.setScale(scale, scale);

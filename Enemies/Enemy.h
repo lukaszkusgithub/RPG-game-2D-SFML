@@ -68,7 +68,7 @@ public:
 
 	float attack();
 
-	float setEnemyScale(float scale);
+	void setEnemyScale(float scale);
 
 	float getPercentOfHealth();
 

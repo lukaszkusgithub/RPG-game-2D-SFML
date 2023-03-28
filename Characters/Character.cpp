@@ -14,7 +14,6 @@ Character::Character(const sf::Vector2f position, SettingsData *windowSettings) 
 
 Character::~Character()
 {
-//  delete this->windowSettings_;
   delete this->animate;
 }
 
@@ -26,10 +25,6 @@ void Character::updatePosition()
 {
 	this->characterPosition_ = this->characterSprite_.getPosition();
 }
-
-//void Character::atack() {
-//
-//}
 
 // CONTROL
 

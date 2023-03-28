@@ -23,6 +23,7 @@ BuffTypes::Buffs BuffTypes::getRandomBuff()
 		case 5:
 			return BuffTypes::Buffs::AttackDPS;
 	}
+    return BuffTypes::Buffs::AttackDPS;
 }
 
 BuffTypes::DeBuffs BuffTypes::getRandomDeBuff()
@@ -42,6 +43,7 @@ BuffTypes::DeBuffs BuffTypes::getRandomDeBuff()
 		case 5:
 			return BuffTypes::DeBuffs::AttackDPS;
 	}
+    return BuffTypes::DeBuffs::health;
 }
 
 
