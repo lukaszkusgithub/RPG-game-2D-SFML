@@ -3,7 +3,7 @@
 # Executables:
 ### Windows
 
-win_exe_file/game.exe
+win_exe_file/RPG.exe
 
 ### MacOS
 
