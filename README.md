@@ -78,7 +78,7 @@ Run the RPG.exe file located in the "win_exe_file" folder
 
 ## Game scenes:
 
-<div style="display: flex; flex-direction: row; flex-wrap: wrap;">
+<div style="display: flex; flex-direction: row; flex-wrap: nowrap;">
     <img src="./readme_files/warrior_game.PNG" alt="Beast" title="Beast NPC"
     style="margin: 10px auto; max-width: 300px">
     <img src="./readme_files/archer_game.PNG" alt="Hero" title="Hero NPC"
