@@ -80,10 +80,10 @@ Run the RPG.exe file located in the "win_exe_file" folder
 
 <div style="display: flex; flex-direction: row; flex-wrap: nowrap;">
     <img src="./readme_files/warrior_game.PNG" alt="Beast" title="Beast NPC"
-    style="margin: 10px auto; max-width: 100px">
+    style="margin: 10px auto; max-width: 100px; flex-shrink: 3;">
     <img src="./readme_files/archer_game.PNG" alt="Hero" title="Hero NPC"
-    style="margin: 10px auto; max-width: 100px">
+    style="margin: 10px auto; max-width: 100px; flex-shrink: 3;">
     <img src="./readme_files/mage_game.PNG" alt="Strong Knight" title="Strong Knight NPC"
-    style="margin: 10px auto; max-width: 100px">
+    style="margin: 10px auto; max-width: 100px; flex-shrink: 3;">
 </div>
 
