@@ -2,7 +2,7 @@
 // Created by Łukasz Kus on 29/05/2021.
 //
 
-#include "../headers/Animate.h"
+#include "../include/Animate.h"
 
 //CONSTRUCTOR //DESTRUCTOR
 

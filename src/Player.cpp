@@ -2,7 +2,7 @@
 // Created by Łukasz Kus on 12/05/2021.
 //
 
-#include "../headers/Player.h"
+#include "../include/Player.h"
 
 //CONSTRUCTOR //DESTRUCTOR
 

@@ -2,7 +2,7 @@
 // Created by Łukasz Kus on 12/05/2021.
 //
 
-#include "../headers/Game.h"
+#include "../include/Game.h"
 
 
 //CONSTRUCTOR //DESTRUCTOR

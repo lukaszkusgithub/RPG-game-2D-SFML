@@ -1,5 +1,5 @@
 // Classes
-#include "headers/Game.h"
+#include "include/Game.h"
 
 
 int main()

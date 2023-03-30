@@ -9,18 +9,18 @@ file(GLOB source_files
         RPG
         *.cpp
         *.h
-        headers/*.h
+        include/*.h
+        include/Characters/*.h
+        include/States/*.h
+        include/Enemies/*.h
+        include/NPC/*.h
+        include/GUI/*.h
         src/*.cpp
-        Characters/*.cpp
-        Characters/*.h
-        States/*.cpp
-        States/*.h
-        Enemies/*.cpp
-        Enemies/*.h
-        NPC/*.cpp
-        NPC/*.h
-        GUI/*.cpp
-        GUI/*.h)
+        src/Characters/*.cpp
+        src/States/*.cpp
+        src/Enemies/*.cpp
+        src/NPC/*.cpp
+        src/GUI/*.cpp)
 
 set(SOURCES ${source_files})
 

@@ -2,7 +2,7 @@
 // Created by Łukasz Kus on 29/05/2021.
 //
 
-#include "../headers/EntityTypes.h"
+#include "../include/EntityTypes.h"
 
 EntityTypes::EntityTypes()
 {

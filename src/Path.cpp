@@ -2,7 +2,7 @@
 // Created by Łukasz Kus on 12/05/2021.
 //
 
-#include "../headers/Path.h"
+#include "../include/Path.h"
 
 //CONSTRUCTOR //DESTRUCTOR
 
