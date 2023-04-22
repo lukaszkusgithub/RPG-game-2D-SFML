@@ -54,25 +54,29 @@ The game contains three types of NPCs
 
 ## Executables:
 ### Windows
-
-win_exe_file/RPG.exe
-
+```bash
+.
+└── win_exe_file/
+    └── RPG.exe
+```
 ### MacOS
-
-unix_exe_file/game
-
+```bash
+.
+└── unix_exe_file/
+    └── game
+```
 ## How to run game:
 Running the game may require additional SFML libraries
 
 ### MacOS
 Run the file located in the "unix_exe_file" folder
-
+```bash
 $ ./game
-
+```
 The file may require additional permissions, for this purpose use the command:
-
+```bash
 $ chmod 754 ./game
-
+```
 ### Windows
 Run the RPG.exe file located in the "win_exe_file" folder
 
